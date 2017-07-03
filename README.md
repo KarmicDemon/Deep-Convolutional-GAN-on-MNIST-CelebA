@@ -3,7 +3,5 @@ Too tired to explain but very straight forward from code
 
 # Requirements
 numpy
-
 tensorflow
-
-matplotlip (to save)
+matplotlib
